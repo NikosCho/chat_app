@@ -1,0 +1,29 @@
+#message-box {
+  width: 100%;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th, td {
+    text-align: left;
+    padding: 8px;
+}
+
+tr:nth-child(even){background-color: #f2f2f2}
+
+.message-id {
+  font-weight:bold;
+  color:#9E9E9E;
+}
+
+.message-sender {
+  font-weight:bold;
+  color:#D1270D;
+}
+
+.message-text {
+  
+}

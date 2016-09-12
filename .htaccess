@@ -1,0 +1,9 @@
+RewriteEngine on
+RewriteRule ^chat_api/(.*)$ php/chat_api.php/$1
+
+
+
+
+
+
+
